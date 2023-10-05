@@ -12,6 +12,7 @@ class sumFrameDiff:
     Parameter
     -----------
     path: file path of video
+    
     Return
     -----------
     flattened array of sum of frame differences
